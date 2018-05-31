@@ -1,0 +1,47 @@
+{
+  "name": "primitive-cli",
+  "version": "0.0.0",
+  "description": "CLI to reproduce images from geometric primitives.",
+  "main": "index.js",
+  "repository": "transitive-bullshit/primitive-cli",
+  "author": "Travis Fischer <travis@automagical.ai>",
+  "license": "MIT",
+  "bin": {
+    "primitive": "index.js"
+  },
+  "scripts": {
+    "docs": "update-markdown-usage",
+    "test": "ava -v && standard"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "primitive",
+    "primitive.js",
+    "primitivejs",
+    "primitive-js",
+    "geometric",
+    "canvas",
+    "manipulation",
+    "art",
+    "image",
+    "images",
+    "simplify",
+    "sqip",
+    "lqip",
+    "geometrize",
+    "genetic"
+  ],
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "execa": "^0.10.0",
+    "standard": "^11.0.0",
+    "update-markdown-usage": "^1.0.1"
+  },
+  "dependencies": {
+    "commander": "^2.15.1",
+    "node-compat-require": "^1.0.3",
+    "primitive": "^0.0.0"
+  }
+}
