@@ -21,7 +21,7 @@ npm install -g primitive-cli
 
     -V, --version                           output the version number
     -i, --input <filename>                  Path of image to process
-    -o, --output <filename>                 Path to save generated image
+    -o, --output <filename>                 Path to save generated image (default: out.png)
     -s, --num-steps <number>                Number of steps to process [1, 1000] (default: 200)
     -e, --min-energy <number>               Minimum energy to stop processing early [0, 1]
     -a, --shape-alpha <number>              Alpha opacity of shapes [0, 255] (default: 128)
