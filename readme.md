@@ -6,6 +6,8 @@
 
 This CLI is also available as a [library](https://github.com/transitive-bullshit/primitive).
 
+[![Demo](https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-triangle-500.png)](https://transitive-bullshit.github.io/primitive-web/)
+
 ## Install
 
 ```bash
