@@ -6,6 +6,7 @@
   "repository": "transitive-bullshit/primitive-cli",
   "author": "Travis Fischer <travis@automagical.ai>",
   "license": "MIT",
+  "reveal": true,
   "bin": {
     "primitive": "index.js"
   },
